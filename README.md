@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ritam Paul</h1>
 <h3 align="center">a Computer Science Engineering undergraduate</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ritampaul&label=Viewers%20-&color=0e75b6&style=flat" alt="ritampaul" /> </p>
+<p align="center">📫 If you want to reach me - 
+<a href="" target="blank">ritampaulblogpost@gmail.com</a>
+</p>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Socials:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ritam-paul-018628234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ritam-paul-018628234/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/darkbeast/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/darkbeast/" height="30" width="40" /></a>
@@ -16,5 +18,3 @@
 </p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ritampaul&show_icons=true&locale=en" alt="ritampaul" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritampaul&" alt="ritampaul" /></p>
