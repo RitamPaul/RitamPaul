@@ -18,7 +18,7 @@
 </p>
 
 <details>
-  <summary align="center">Click for details</summary>
+  <summary align="center"><h4>Click for details</h4></summary>
   <p align="center">
     <img align="center" src="https://stats.quine.sh/Beast/github?theme=darkhttps://quine.sh?utm_source=widgets&utm_campaign=Beast" alt="quine stats" height=auto width=auto/>
   </p>
