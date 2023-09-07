@@ -21,15 +21,18 @@
   <summary align="center"><h4>Click for details</h4></summary>
   <p align="center">
     <img align="center" src="https://stats.quine.sh/Beast/github?theme=darkhttps://quine.sh?utm_source=widgets&utm_campaign=Beast" alt="quine stats" height=auto width=auto/>
-  </p>
-  <p align="center">
+    <br>
+    <br>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ritampaul&show_icons=true&locale=en" alt="stats"/>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritampaul&show_icons=true&locale=en&layout=compact" alt="languages" width="355" height=auto/>
-  </p>
-  <p align="center">
+    <br>
+    <br>
+    <img align="center" src="https://myreadme.vercel.app/api/embed/RitamPaul?panels=userstatistics,toplanguages,commitgraph" alt="statslanguagesgraph" height=auto width=auto/>
+    <br>
+    <br>
     <img align="center" src="https://stats.quine.sh/Beast/languages-over-time?theme=darkhttps://quine.sh?utm_source=widgets&utm_campaign=Beast" alt="quine languages" height=auto width=auto/>
-  </p>
-  <p align="center">
+    <br>
+    <br>
     <img align="center" src="https://stats.quine.sh/Beast/topics-over-time?theme=darkhttps://quine.sh?utm_source=widgets&utm_campaign=Beast" alt="quine topics" width=auto height=auto/>
   </p>
 </details>
