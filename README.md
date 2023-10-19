@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ritam Paul</h1>
 <h3 align="center">a Computer Science Engineering undergraduate</h3>
 
-<p align="center">📫 If you want to reach me - 
-<a href="" target="blank">ritampaulblogpost@gmail.com</a>
+<p align="center">👉 If you want to reach me - 📫
+<a href="" target="blank">ritampaulblogpost@gmail.com</a> 👈
 </p>
 
 <h3 align="center">Socials:</h3>
@@ -35,4 +35,6 @@
     <br>
     <img align="center" src="https://stats.quine.sh/Beast/topics-over-time?theme=darkhttps://quine.sh?utm_source=widgets&utm_campaign=Beast" alt="quine topics" width=auto height=auto/>
   </p>
+
+  [![An image of @ritampaul's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ritampaul)](https://holopin.io/@ritampaul)
 </details>
