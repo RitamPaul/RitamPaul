@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ritam Paul</h1>
-<h3 align="center">a Computer Science Engineering undergraduate</h3>
+<h3 align="center">ℹ️ a Computer Science Engineering undergraduate</h3>
 
 <p align="center">👉 If you want to reach me - 📫
 <a href="" target="blank">ritampaulblogpost@gmail.com</a> 👈
 </p>
 
 <img align="left" src="https://github.com/RitamPaul/RitamPaul/blob/main/img/XOsX.gif?raw=true" alt="gif" width="150" />
-<img align="right" src="https://github.com/RitamPaul/RitamPaul/blob/main/img/XOsX.gif?raw=true" alt="gif" width="150" />
+<img align="right" src="https://github.com/RitamPaul/RitamPaul/blob/main/img/49c16a38805735.57701dcdd452c.gif?raw=true" alt="gif" width="190" />
 
 <h3 align="center">Socials:</h3>
 <p align="center">
