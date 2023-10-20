@@ -5,6 +5,9 @@
 <a href="" target="blank">ritampaulblogpost@gmail.com</a> 👈
 </p>
 
+<img align="left" src="https://github.com/RitamPaul/RitamPaul/blob/main/img/XOsX.gif?raw=true" alt="gif" width="150" />
+<img align="right" src="https://github.com/RitamPaul/RitamPaul/blob/main/img/XOsX.gif?raw=true" alt="gif" width="150" />
+
 <h3 align="center">Socials:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/ritam-paul-018628234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ritam-paul-018628234/" height="30" width="40" /></a>
