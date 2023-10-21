@@ -11,9 +11,9 @@
 <h3 align="center">Socials:</h3>
 <div align="center">
   
-| LinkedIn | LeetCode | GeeksforGeeks |
-| :---:    | :---:    | :---:         |
-|<a href="https://www.linkedin.com/in/ritam-paul-018628234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ritam-paul-018628234/" height="30" width="40" /></a> | <a href="https://www.leetcode.com/DarkBeast/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/DarkBeast/" height="30" width="40" /></a> | <a href="https://auth.geeksforgeeks.org/user/ritam_paul/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/ritam_paul/practice" height="30" width="40" /></a> |
+| LinkedIn | LeetCode | GeeksforGeeks | Instagram |
+| :---:    | :---:    | :---:         | :---:     |
+|<a href="https://www.linkedin.com/in/ritam-paul-018628234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a> | <a href="https://www.leetcode.com/DarkBeast/" target="blank"><img align="center" src="https://github.com/RitamPaul/RitamPaul/blob/main/img/leetcode_icon.png?raw=true" alt="LeetCode" width="30" /></a> | <a href="https://auth.geeksforgeeks.org/user/ritam_paul/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GFG" height="30" width="40" /></a> | <a href="https://www.instagram.com/ritam.kalariwarrior/" target="blank"><img align="center" src="https://github.com/RitamPaul/RitamPaul/blob/main/img/insta_icon.png?raw=true" alt="Instagram" width="30" /></a> |
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
